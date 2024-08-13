@@ -25,12 +25,12 @@ module.exports = {
      */
     author: process.env.Author || "@PikaBotz",
     packname: process.env.PackName || "Queen Anya v2 MD",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
+    socialLink: process.env.Web || "https://www.rasinthabandara.site",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://mrrasintha:Nimesh123@cluster0.boakreq.mongodb.net/",
-    sessionId: process.env.SESSION_ID || "cGVzNHl_AN_YA_meDU=",
+    sessionId: process.env.SESSION_ID || "N_AN_YA_GViMDN_AN_YA_4ZnI=",
 
     /**
      * thumbnails and medias
